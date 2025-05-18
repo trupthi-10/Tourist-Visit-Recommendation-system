@@ -25,13 +25,21 @@ The system uses a clean and structured dataset of Indian tourist destinations, e
 * Streamlit (for web UI)
 * Joblib (for model persistence)
   
+Certainly! Here's your **📁 Project Structure** section formatted point-wise, as requested:
+
+---
+
 📁 Project Structure
 
- 1.app.py                          -   Streamlit application
- 2.train.py                        -   Model training and evaluation script
- 3.Top Indian Places to Visit.csv  -   Dataset
- 4.*.pkl                           -   Saved models and encoders
- 5.README.md                       -   Project documentation
+1. `app.py` – Streamlit-based web application for user interaction and recommendations.
+2. `train.py` – Script for training and evaluating machine learning models.
+3. `Top Indian Places to Visit.csv` – Dataset containing details of tourist destinations across India.
+4. `.pkl` – Serialized files for saved models, scalers, and label encoders using Joblib.
+5. `README.md` – Project documentation and usage instructions.
+
+---
+
+Let me know if you'd like to include a `requirements.txt` or any other file as well.
 
 
 🚀 How to Run
