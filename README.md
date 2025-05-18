@@ -27,11 +27,11 @@ The system uses a clean and structured dataset of Indian tourist destinations, e
   
 📁 Project Structure
 
- app.py                          -   Streamlit application
- train.py                        -   Model training and evaluation script
- Top Indian Places to Visit.csv  -   Dataset
- *.pkl                           -   Saved models and encoders
- README.md                       -   Project documentation
+ 1.app.py                          -   Streamlit application
+ 2.train.py                        -   Model training and evaluation script
+ 3.Top Indian Places to Visit.csv  -   Dataset
+ 4.*.pkl                           -   Saved models and encoders
+ 5.README.md                       -   Project documentation
 
 
 🚀 How to Run
