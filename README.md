@@ -24,10 +24,6 @@ The system uses a clean and structured dataset of Indian tourist destinations, e
 * imbalanced-learn (SMOTE)
 * Streamlit (for web UI)
 * Joblib (for model persistence)
-  
-Certainly! Here's your **📁 Project Structure** section formatted point-wise, as requested:
-
----
 
 📁 Project Structure
 
@@ -36,11 +32,6 @@ Certainly! Here's your **📁 Project Structure** section formatted point-wise, 
 3. `Top Indian Places to Visit.csv` – Dataset containing details of tourist destinations across India.
 4. `.pkl` – Serialized files for saved models, scalers, and label encoders using Joblib.
 5. `README.md` – Project documentation and usage instructions.
-
----
-
-Let me know if you'd like to include a `requirements.txt` or any other file as well.
-
 
 🚀 How to Run
 
